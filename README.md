@@ -1,0 +1,2 @@
+# JC3248W535EN
+JC3248W535EN esp32 LCD and Touch requiring No LVGL
